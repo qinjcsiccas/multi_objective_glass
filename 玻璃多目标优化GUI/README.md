@@ -65,13 +65,13 @@ install.packages(c("nnet","gbm","randomForest","genalg","jsonlite"))
 
 ### 模型信息
 
-| 性能 | 模型 | 数量 | 
-|---|---|---|
-| 介电常数 ε | 人工神经网络 (nnet) | 1000 bootstrap |
-| 介电损耗 tanδ | 人工神经网络 (nnet) | 1000 bootstrap |
-| 热导率 κ | 人工神经网络 (nnet) | 1000 bootstrap |
-| 热膨胀系数 α | 梯度提升树 (gbm) | 1 |
-| 杨氏模量 E | 随机森林 (randomForest) | 1 |
+| 性能 | 模型 |
+|---|---|
+| 介电常数 ε | 人工神经网络 (nnet) |
+| 介电损耗 tanδ | 人工神经网络 (nnet) |
+| 热导率 κ | 人工神经网络 (nnet) |
+| 热膨胀系数 α | 梯度提升树 (gbm) | 
+| 杨氏模量 E | 随机森林 (randomForest) |
 
 ---
 
@@ -135,13 +135,13 @@ install.packages(c("nnet","gbm","randomForest","genalg","jsonlite"))
 
 ### Model Details
 
-| Property | Model | Count |
-|---|---|---|
-| Permittivity ε | Artificial Neural Network (nnet) | 1000 bootstrap |
-| Dielectric Loss tanδ | Artificial Neural Network (nnet) | 1000 bootstrap |
-| Thermal Conductivity κ | Artificial Neural Network (nnet) | 1000 bootstrap |
-| CTE α | Gradient Boosted Trees (gbm) | 1 |
-| Young's Modulus E | Random Forest (randomForest) | 1 |
+| Property | Model |
+|---|---|
+| Permittivity ε | Artificial Neural Network (nnet) |
+| Dielectric Loss tanδ | Artificial Neural Network (nnet) |
+| Thermal Conductivity κ | Artificial Neural Network (nnet) |
+| CTE α | Gradient Boosted Trees (gbm) |
+| Young's Modulus E | Random Forest (randomForest) |
 
 ---
 
