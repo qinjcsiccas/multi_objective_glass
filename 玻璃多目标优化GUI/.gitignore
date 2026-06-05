@@ -1,4 +1,0 @@
-job_queue/
-tmp*.json
-__pycache__/
-*.pyc
